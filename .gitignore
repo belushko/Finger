@@ -1,0 +1,7 @@
+packages/
+Finger/Finger.Web/obj/
+Finger/Finger.Web/bin/
+Finger.Web/obj/Debug/build.force
+Finger.Web/bin/
+Finger.Web/obj/
+.vs/
