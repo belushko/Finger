@@ -41,7 +41,7 @@ namespace Finger.Core.Tests
 
             var multiplicationКesult = multiplier.Muktiply(x, y);
 
-            Assert.AreNotEqual(multiplicationКesult, expectedResult);
+            Assert.AreEqual(multiplicationКesult, expectedResult);
         }
     }
 }
