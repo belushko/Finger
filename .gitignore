@@ -5,3 +5,6 @@ Finger.Web/obj/Debug/build.force
 Finger.Web/bin/
 Finger.Web/obj/
 .vs/
+Finger.Core.Tests/obj/
+Finger.Core/obj/
+Finger.Core.Tests/bin/
